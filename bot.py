@@ -632,5 +632,4 @@ def main() -> int:
                         continue
                     if g["scorer"]:
                         translated = translate_to_persian(g["scorer"])
-                        if translated is None:
-                            print(f"  {channel}#{p.id}: translation
+                        if translated is None:print("translate failed")
