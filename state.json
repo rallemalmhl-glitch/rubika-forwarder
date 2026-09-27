@@ -1,12 +1,12 @@
 {
   "last_id": {
     "futtrue": 8827,
-    "Footballigool": 12705,
+    "Footballigool": 12706,
     "bisbado": 9,
     "ArabicMatch360": 8138,
     "LaLiga360": 733,
-    "TasnimSport": 121970,
-    "Sportfars": 324863,
+    "TasnimSport": 121973,
+    "Sportfars": 324864,
     "varzesh3": 302897
   },
   "fingerprints": {
@@ -43,6 +43,7 @@
     "summary|ترکیه|فرانسه|0-1": 1790455186.8713365,
     "goal|اسپانیا|انگلیس|ord3": 1790455197.5489383,
     "goal|اسپانیا|انگلیس|min60": 1790455211.488891,
-    "goal|اسپانیا|انگلیس|min74": 1790455220.9755762
+    "goal|اسپانیا|انگلیس|min74": 1790455220.9755762,
+    "goal|رن|لیون|unknown": 1790491718.6951458
   }
 }
