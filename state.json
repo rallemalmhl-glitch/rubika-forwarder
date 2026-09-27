@@ -1,12 +1,12 @@
 {
   "last_id": {
     "futtrue": 8827,
-    "Footballigool": 12712,
+    "Footballigool": 12713,
     "bisbado": 9,
     "ArabicMatch360": 8138,
     "LaLiga360": 733,
     "TasnimSport": 121982,
-    "Sportfars": 324872,
+    "Sportfars": 324874,
     "varzesh3": 302905
   },
   "fingerprints": {
@@ -45,5 +45,6 @@
     "goal|اسپانیا|انگلیس|min60": 1790455211.488891,
     "goal|اسپانیا|انگلیس|min74": 1790455220.9755762,
     "goal|رن|لیون|unknown": 1790491718.6951458
-  }
+  },
+  "sent_ids": {}
 }
