@@ -1,13 +1,13 @@
 {
   "last_id": {
     "futtrue": 8827,
-    "Footballigool": 12724,
+    "Footballigool": 12725,
     "bisbado": 9,
-    "ArabicMatch360": 8142,
+    "ArabicMatch360": 8144,
     "LaLiga360": 733,
     "TasnimSport": 122003,
     "Sportfars": 324899,
-    "varzesh3": 302916
+    "varzesh3": 302917
   },
   "fingerprints": {
     "goal|اتلتیکومادرید|رئالمادرید|ord1": 1790147654.930113,
@@ -44,7 +44,10 @@
     "goal|اسپانیا|انگلیس|ord3": 1790455197.5489383,
     "goal|اسپانیا|انگلیس|min60": 1790455211.488891,
     "goal|اسپانیا|انگلیس|min74": 1790455220.9755762,
-    "goal|رن|لیون|unknown": 1790491718.6951458
+    "goal|رن|لیون|unknown": 1790491718.6951458,
+    "summary|اسپانیا|انگلیس|2-3": 1790515407.6265547
   },
-  "sent_ids": {}
+  "sent_ids": {
+    "ArabicMatch360:8143": 1790515407.6265564
+  }
 }
