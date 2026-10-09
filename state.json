@@ -1,16 +1,15 @@
 {
   "last_id": {
     "futtrue": 8865,
-    "Footballigool": 13230,
+    "Footballigool": 13231,
     "bisbado": 24,
     "ArabicMatch360": 8166,
     "LaLiga360": 733,
-    "TasnimSport": 123066,
-    "Sportfars": 325921,
+    "TasnimSport": 123069,
+    "Sportfars": 325922,
     "varzesh3": 303663
   },
   "fingerprints": {
-    "goal|استرالیا|برزیل|min45": 1790681376.6607857,
     "goal|استرالیا|برزیل|min69": 1790683386.4167795,
     "summary|استرالیا|برزیل|2-4": 1790689275.4930644,
     "goal|اسپانیا|کرواسی|min2": 1790708892.0104744,
@@ -45,7 +44,6 @@
     "goal|رن|فولاد|sc2-1": 1791481324.5146444
   },
   "sent_ids": {
-    "Sportfars:325089": 1790681376.660788,
     "Sportfars:325096": 1790683386.4167807,
     "ArabicMatch360:8151": 1790689275.493067,
     "Sportfars:325151": 1790708892.010476,
