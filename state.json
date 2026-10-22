@@ -1,16 +1,15 @@
 {
   "last_id": {
     "futtrue": 8942,
-    "Footballigool": 13845,
+    "Footballigool": 13863,
     "bisbado": 24,
     "ArabicMatch360": 8299,
     "LaLiga360": 764,
-    "TasnimSport": 124459,
-    "Sportfars": 327178,
-    "varzesh3": 304774
+    "TasnimSport": 124512,
+    "Sportfars": 327206,
+    "varzesh3": 304802
   },
   "fingerprints": {
-    "summary|کالیاری|یوونتوس|1-1": 1791804402.7328873,
     "goal|ذوبآهن|سپاهان|min2": 1791896790.317565,
     "goal|ذوبآهن|سپاهان|min23": 1791896811.5470273,
     "goal|فولاد|ملوان|min4": 1791900283.5048923,
@@ -122,7 +121,6 @@
     "goal|اینتر|شاختار|min78": 1792616290.9693213
   },
   "sent_ids": {
-    "ArabicMatch360:8186": 1791804402.73289,
     "Sportfars:326314": 1791896790.3175669,
     "Sportfars:326315": 1791896811.5470293,
     "Sportfars:326326": 1791900283.5048938,
