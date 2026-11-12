@@ -1,16 +1,15 @@
 {
   "last_id": {
     "futtrue": 9010,
-    "Footballigool": 14968,
+    "Footballigool": 14988,
     "bisbado": 24,
     "ArabicMatch360": 8515,
     "LaLiga360": 814,
-    "TasnimSport": 126520,
-    "Sportfars": 328819,
-    "varzesh3": 306706
+    "TasnimSport": 126530,
+    "Sportfars": 328837,
+    "varzesh3": 306732
   },
   "fingerprints": {
-    "goal|اینترمیامی|لیون|sc2-1": 1793608074.8654532,
     "summary|ناپولی|یوونتوس|0-2": 1793645075.3911393,
     "summary|النصر|رم|2-6": 1793668989.81125,
     "summary|الاتحاد|رم|1-4": 1793693084.838017,
@@ -74,7 +73,6 @@
     "goal|استقلال|پرسپولیس|sc2-1": 1794414092.622092
   },
   "sent_ids": {
-    "varzesh3:305866": 1793608074.865455,
     "ArabicMatch360:8404": 1793645075.3911467,
     "ArabicMatch360:8407": 1793668989.8112538,
     "ArabicMatch360:8411": 1793693084.8380196,
